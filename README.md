@@ -21,6 +21,8 @@
 
 # Blogged 🖍
 
+**NOTE: This package is original from [Saleem Hadad](https://github.com/saleem-hadad/blogged), although I had to modify the composer.json to work on Laravel 8. All the credits are for him <3**
+
 **Blogged** is a carefully designed Laravel package provides an easy way to create a beautiful blog like [this](https://blogged.binarytorch.com.my/blog) inside your normal Laravel projects. It lives besides your code project's code base without interacting with it. It comes with a beautiful looking user interface which is highly configurable to fit your need.
 
 ![blogged](https://blogged.binarytorch.com.my/blogged-showcase.png)
